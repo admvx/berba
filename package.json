@@ -1,0 +1,22 @@
+{
+    "name": "berba",
+    "displayName": "Berba",
+    "description": "A light colour theme for Visual Studio Code with a warm, bright palette ",
+    "version": "1.0.0",
+    "publisher": "hanenbro",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Berba",
+                "uiTheme": "vs",
+                "path": "./themes/Berba-color-theme.json"
+            }
+        ]
+    }
+}
