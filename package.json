@@ -1,9 +1,11 @@
 {
     "name": "berba",
     "displayName": "Berba",
-    "description": "A light colour theme for Visual Studio Code with a warm, bright palette ",
-    "version": "1.0.0",
+    "description": "A light colour theme for Visual Studio Code with a warm, bright, low-contrast palette",
+    "repository": "https://github.com/admvx/berba",
+    "version": "1.1.0",
     "publisher": "hanenbro",
+    "icon": "berba-thumb-round.png",
     "engines": {
         "vscode": "^1.14.0"
     },
