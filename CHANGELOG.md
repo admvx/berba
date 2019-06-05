@@ -1,5 +1,10 @@
 # Change Log
-All notable changes to the "berba" extension will be documented in this file.
+
+## 1.2.1
+- Removed underline styles (except for markdown underline) due to rendering bugginess on Windows
+- Extended color to cover additional UI elements
+- Made some text colors more saturated and darker to improve contrast on wider range of displays
+- Swapped some colors to improve contrast in hover / focus states
 
 ## 1.1.0
 - Reversed changelog direction
