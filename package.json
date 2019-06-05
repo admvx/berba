@@ -3,7 +3,7 @@
     "displayName": "Berba",
     "description": "A light colour theme for Visual Studio Code with a warm, bright, low-contrast palette",
     "repository": "https://github.com/admvx/berba",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "hanenbro",
     "icon": "berba-logo.png",
     "engines": {
