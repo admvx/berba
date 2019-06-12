@@ -175,7 +175,22 @@
 		"textSeparator.foreground": "#C2A890",
 		"titleBar.activeBackground": "#333038",
 		"titleBar.activeForeground": "#d6cabc",
-		"titleBar.inactiveBackground": "#4d4349"
+		"titleBar.inactiveBackground": "#4d4349",
+		
+		
+		//TODO: sort these!
+		"dropdown.background": "#C2A89088",
+		"menu.background": "#554a55",
+		"peekViewEditor.background": "#C2A8901A",
+		"peekViewResult.background": "#C2A89033",
+		"peekViewTitle.background": "#C2A8900A",
+		"peekViewTitleDescription.foreground": "#775067",
+		"statusBar.debuggingBackground": "#ff2b59",
+		"statusBar.debuggingForeground": "#ffffff",
+		"statusBar.noFolderBackground": "#4d4349",
+		"statusBarItem.remoteBackground": "#f88214",
+		"statusBarItem.remoteForeground": "#ffffff",
+		"dropdown.foreground": "#775067",
 	},
 	"tokenColors": [
 		{
