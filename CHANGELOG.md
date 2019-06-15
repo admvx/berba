@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.3.0
+- Added some additional colors and replaced others that fit poorly (dropdowns, status bar modes)
+- Added Illustrator file for logo to repo
+
 ## 1.2.1
 - Removed underline styles (except for markdown underline) due to rendering bugginess on Windows
 - Extended color to cover additional UI elements
