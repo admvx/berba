@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.3.1
+- Updated sidebar diff color to green (previously blue)
+- Disabled inactive list focus color to fix contrast bug in task menu
+- Added new split editor tab colors to improve visibility
+- Add .vscodeignore file to keep irrelevant content from published extension
+
 ## 1.3.0
 - Added some additional colors and replaced others that fit poorly (dropdowns, status bar modes)
 - Added Illustrator file for logo to repo
