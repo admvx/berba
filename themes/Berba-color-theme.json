@@ -3,7 +3,7 @@
 	"type": "light",
 	"colors": {
 		"activityBar.background": "#554a55",
-		"activityBar.dropBackground": "#221f22bf",
+		"activityBar.dropBorder": "#221f22bf",
 		"activityBar.foreground": "#ffd9b7",
 		"activityBar.inactiveForeground": "#caa786",
 		"activityBarBadge.background": "#f88214",
@@ -98,7 +98,6 @@
 		"list.highlightForeground": "#ff2b59",
 		"list.hoverBackground": "#ffffff44",
 		"list.hoverForeground": "#144d79",
-		//"list.inactiveFocusBackground": "#f8821483", -- disabling because it currently appears in some cases where focus is active
 		"list.inactiveSelectionBackground": "#86d0caA0",
 		"list.inactiveSelectionForeground": "#ffffff",
 		"list.invalidItemForeground": "#ff2b59",
@@ -114,7 +113,7 @@
 		"notificationLink.foreground": "#97b901",
 		"notifications.foreground": "#00b8ae",
 		"panel.background": "#f1e9e2",
-		"panel.dropBackground": "#221f22bf",
+		"panel.dropBorder": "#221f22bf",
 		"panelTitle.activeBorder": "#f88214",
 		"panelTitle.activeForeground": "#f88214",
 		"panelTitle.inactiveForeground": "#f88214cc",
